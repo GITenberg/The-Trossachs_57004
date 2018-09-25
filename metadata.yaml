@@ -1,0 +1,24 @@
+_repo: The-Trossachs_57004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitton, G. E. (Geraldine Edith)
+    alias: Mitton, Geraldine Edith
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '9224'
+    url: http://www.gutenberg.org/2009/agents/9224
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
+description: ''
+gutenberg_issued: '2018-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Trossachs
+url: http://www.gutenberg.org/ebooks/57004
